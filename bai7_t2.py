@@ -1,0 +1,6 @@
+a = int(input("nhap so thu nhat: "))
+b = int(input("nhap so thu hai: "))
+c = int(input("nhap so thu ba: "))
+d = int(input("nhap so thu tu: "))
+min_number = min(a, b, c, d)
+print("So lon nhat la:", min_number)
